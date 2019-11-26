@@ -1,3 +1,2 @@
-# This repo contains the datasets necessary for this assignment
-# And the code writen in jupyter notebook
-# And this readme 
+The actual jupyter python script is called PythonAssignment.ipynb
+new is the new df in csv format after adding the molecular weight and gc_content cotent columns
